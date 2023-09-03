@@ -23,11 +23,7 @@
 * 서비스 특징  
   웹캠과 WebRTC 기술을 활용해 비대면으로도 함께 있는 것처럼 영상 찍기  
    
-* [UCC 영상, 시연 영상](https://pattern-ounce-358.notion.site/d63b8f36c8664fe3856c11dce39c44a4)
-  ![UCC](https://schedule.mozzi.lol/file/ucc-mozzi.mp4)
-  ![시연](https://schedule.mozzi.lol/file/sample.mp4)
-
-    
+* [UCC 영상, 시연 영상](https://pattern-ounce-358.notion.site/d63b8f36c8664fe3856c11dce39c44a4)  
   
 # ✨기획 배경
 ### 1. 단체사진/영상 수요의 지속적인 성장
